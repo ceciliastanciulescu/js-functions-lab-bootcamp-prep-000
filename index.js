@@ -7,6 +7,6 @@ function happyHolidaysTo(name) {
   return Unswer
   }
 function happyHolidayTo(holiday, name) {
-  var Unswer = "Happy Independence day, you!";
+  var Unswer = "Happy Independence Day, you!";
   return Unswer
 }
